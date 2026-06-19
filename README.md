@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" align="right"/>
 
 <h1>Hi, I'm Rupendra 👋</h1>
 
