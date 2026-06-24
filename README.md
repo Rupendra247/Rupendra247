@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- Profile views counter -->
 
 <h1>Hi, I'm Rupendra 👋</h1>
-<h2> I'm a CS + AI student who enjoys digging into data, building intelligent systems, and writing clean, purposeful code. I believe the best way to learn is by building — so I'm always working on something.</h2>
+<p> I'm a CS + AI student who enjoys digging into data, building intelligent systems, and writing clean, purposeful code. I believe the best way to learn is by building — so I'm always working on something.</p>
 
 <blockquote>
   Python . Machine Learning · Deep Learning · AI · 
