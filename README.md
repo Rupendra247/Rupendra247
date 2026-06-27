@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 </p>
 
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RupendraDhungana&theme=github-compact&hide_border=true&area=true" width="100%"/>
+</p>
