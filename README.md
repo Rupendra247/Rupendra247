@@ -36,12 +36,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RupendraDhungana&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupendraDhungana&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupendra247&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupendra247&layout=compact&hide_border=true" height="160"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RupendraDhungana&theme=default&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Rupendra247&theme=default&hide_border=true"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RupendraDhungana&theme=github-compact&hide_border=true&area=true" width="100%"/>
-</p>
+
