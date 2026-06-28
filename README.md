@@ -29,6 +29,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <!-- Minimal dark version -->
+<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<!-- Using Swagger/OpenAPI logo -->
+<img src="https://img.shields.io/badge/REST%20API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
 
