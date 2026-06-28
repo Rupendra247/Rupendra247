@@ -19,7 +19,7 @@
 </p>
 ---
 
-<table>
+<!-- <table>
   <tr>
     <td valign="bottom">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=github-compact&hide_border=true&area=true" width="500"/>
@@ -28,10 +28,19 @@
       <img src="https://streak-stats.demolab.com?user=Rupendra247&theme=default&hide_border=true" width="350"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=github-compact&hide_border=true&area=true" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupendra247&theme=github" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupendra247&theme=github" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupendra247&theme=github" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rupendra247&theme=github" width="32%"/>
 </p>
 
 <p align="center">
