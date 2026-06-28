@@ -17,7 +17,18 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   
 </p>
+---
 
+<table>
+  <tr>
+    <td valign="bottom">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=github-compact&hide_border=true&area=true" width="500"/>
+    </td>
+    <td valign="bottom" align="right">
+      <img src="https://streak-stats.demolab.com?user=Rupendra247&theme=default&hide_border=true" width="350"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=github-compact&hide_border=true&area=true" width="100%"/>
