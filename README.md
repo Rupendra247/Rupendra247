@@ -38,5 +38,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rupendra247&theme=default&hide_border=true"/>
 </p>
+<img src="https://metrics.lecoq.io/api?username=Rupendra247&template=terminal&metrics.plugin.languages=yes&metrics.plugin.languages.analysis.timeout=15&metrics.plugin.languages.categories=syntax&metrics.plugin.languages.colors=github&metrics.plugin.languages.details=bytes-size,percentage&metrics.plugin.languages.limit=8&metrics.plugin.languages.recent.categories=syntax&metrics.plugin.languages.recent.load=300&metrics.plugin.languages.sections=most-used&metrics.plugin.languages.threshold=0%&metrics.plugin.habits=yes&metrics.plugin.habits.charts=yes" />
 
 
