@@ -27,11 +27,6 @@
   <img src="https://streak-stats.demolab.com?user=Rupendra247&theme=default&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=github-compact&hide_border=true&area=true" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupendra247&show_icons=true&include_all_commits=true&count_private=true&show=reviews,commits,prs,issues" />
-</p>
-
 ### Competitive Programming
 
 <a href="https://leetcode.com/u/dhunganarupendra/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
