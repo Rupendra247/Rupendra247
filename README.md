@@ -7,6 +7,8 @@
   Python . Machine Learning · Deep Learning · AI · 
 </blockquote>
 <p> I'm a CS + AI student who enjoys digging into data, building intelligent systems, and writing clean, purposeful code. I believe the best way to learn is by building — so I'm always working on something.</p>
+<br>
+<br>
 
 <p>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
