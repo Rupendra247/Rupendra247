@@ -18,18 +18,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   
 </p>
----
-
-<!-- <table>
-  <tr>
-    <td valign="bottom">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=github-compact&hide_border=true&area=true" width="500"/>
-    </td>
-    <td valign="bottom" align="right">
-      <img src="https://streak-stats.demolab.com?user=Rupendra247&theme=default&hide_border=true" width="350"/>
-    </td>
-  </tr>
-</table> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=github-compact&hide_border=true&area=true" width="100%"/>
@@ -39,4 +27,13 @@
   <img src="https://streak-stats.demolab.com?user=Rupendra247&theme=default&hide_border=true"/>
 </p>
 
+### Competitive Programming
+
+<a href="https://leetcode.com/u/dhunganarupendra/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/profile/dhunganarupendr1"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codewars.com/users/Rupendra%20Dhungana"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/></a>
+
+### Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
