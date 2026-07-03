@@ -26,6 +26,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rupendra247&theme=default&hide_border=true"/>
 </p>
+<br>
+
+<br>
 
 ### Competitive Programming
 
