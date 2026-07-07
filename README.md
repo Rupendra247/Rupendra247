@@ -25,12 +25,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rupendra247&theme=default&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rupendra247&hide_border=true&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&ring=3776AB&fire=3776AB&currStreakLabel=3776AB"/>
 </p>
-<br> -->
 
 <br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rupendra247&no-frame=true&no-bg=true&margin-w=4&theme=flat"/>
+</p>
 
 ### Competitive Programming
 
