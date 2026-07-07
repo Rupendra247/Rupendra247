@@ -21,13 +21,6 @@
   
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=github-compact&hide_border=true&area=true" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupendra247&show_icons=true&hide_border=true&theme=tokyonight&icon_color=3776AB" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupendra247&layout=compact&hide_border=true&theme=tokyonight" width="38%"/>
-</p>
 
 <br>
 
