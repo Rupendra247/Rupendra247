@@ -25,10 +25,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rupendra247&theme=default&hide_border=true"/>
 </p>
-<br>
+<br> -->
 
 <br>
 
