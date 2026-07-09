@@ -20,11 +20,9 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   
 </p>
-
+<img src="https://streak-stats.demolab.com?user=Rupendra247&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rupendra247" alt="GitHub Streak" /></a>
-
 ### Competitive Programming
 
 <a href="https://leetcode.com/u/dhunganarupendra/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
