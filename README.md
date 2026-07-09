@@ -21,6 +21,9 @@
   
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Rupendra247&show_icons=true&theme=dark" />
+<br>
+
 ### Competitive Programming
 
 <a href="https://leetcode.com/u/dhunganarupendra/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
