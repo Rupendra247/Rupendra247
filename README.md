@@ -23,8 +23,7 @@
 
 
 <br>
-<img src="https://streak-stats.demolab.com/?user=Rupendra247&theme=dark&hide_border=true" /><br>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rupendra247" alt="GitHub Streak" /></a>
 
 ### Competitive Programming
 
