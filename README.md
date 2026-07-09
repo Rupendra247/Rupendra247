@@ -23,8 +23,7 @@
 
 
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupendra247&theme=dark&hide_border=true" />
-<br>
+<img src="https://streak-stats.demolab.com/?user=Rupendra247&theme=dark&hide_border=true" /><br>
 
 
 ### Competitive Programming
