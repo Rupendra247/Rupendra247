@@ -23,6 +23,8 @@
 ### Contribution Graph
 ![Rupendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=react-dark&hide_border=true&area=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rupendra247&theme=react-dark&hide_border=true)
+
 ### Competitive Programming
 
 <a href="https://leetcode.com/u/dhunganarupendra/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
