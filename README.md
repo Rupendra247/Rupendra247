@@ -21,7 +21,7 @@
 </p>
 
 ### Contribution Graph
-![Rupendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhunganarupendra&theme=react-dark&hide_border=true&area=true)
+![Rupendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=react-dark&hide_border=true&area=true)
 
 ### Competitive Programming
 
