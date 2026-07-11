@@ -19,9 +19,9 @@
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
-<br>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rupendra247&theme=react-dark&hide_border=true)
-<br>
+
 
 ### Contribution Graph
 ![Rupendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=react-dark&hide_border=true&area=true)
