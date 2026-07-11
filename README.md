@@ -21,7 +21,6 @@
   
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rupendra247&show_icons=true&theme=dark" />
 <br>
 
 ### Competitive Programming
