@@ -2,7 +2,6 @@
 <p align="center">
   <i>Python · Machine Learning · Deep Learning · AI</i>
 </p>
-
 <p align="center">
 I'm a CS + AI student who enjoys digging into data, building intelligent systems, and writing clean, purposeful code. I believe the best way to learn is by building — so I'm always working on something.
 </p>
@@ -25,16 +24,19 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
 <br>
 
 ### Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupendra247&theme=react-dark&hide_border=true" />
 </p>
 
 ### Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ### Competitive Programming
+
 <p align="center">
   <a href="https://leetcode.com/u/dhunganarupendra/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.hackerrank.com/profile/dhunganarupendr1"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
@@ -45,15 +47,17 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupendra247&layout=compact&theme=react-dark&hide_border=true" />
 </p>
 
-
 ### Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ### Connect with Me
+
 <p align="center">
-  <a href="www.linkedin.com/in/rupendradhungana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="dhunganarupendra69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rupendradhungana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dhunganarupendra69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/rups1603"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@rdchannel9999"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
