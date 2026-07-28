@@ -47,11 +47,6 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupendra247&layout=compact&theme=react-dark&hide_border=true" />
 </p> -->
 
-### Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
 
 ### Connect with Me
 
@@ -60,4 +55,10 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
   <a href="mailto:dhunganarupendra69@gmail.com"><img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/rups1603"><img height="28" src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.youtube.com/@rdchannel9999"><img height="28" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+### Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
