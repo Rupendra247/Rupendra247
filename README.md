@@ -41,6 +41,11 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
   <a href="https://www.codewars.com/users/Rupendra%20Dhungana"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 </p>
 
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupendra247&layout=compact&theme=react-dark&hide_border=true" />
+</p>
+
+
 ### Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
