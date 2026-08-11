@@ -35,7 +35,7 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=react-dark&hide_border=true&area=true" /> -->
 <!-- </p> -->
 
-### Competitive Programming
+<!-- ### Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/dhunganarupendra/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
