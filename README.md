@@ -31,24 +31,22 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupendra247&theme=react-dark&hide_border=true" />
 </p>
 
+### Featured Projects
 
+**[finance-tracker](https://github.com/Rupendra247/finance-tracker)**
+A production-ready RESTful Personal Finance API built with FastAPI, SQLAlchemy, and JWT auth. Supports user registration/login, full transaction CRUD, pagination, date filtering, and balance summaries — with full user data isolation and Docker/Heroku deployment support.
 
-<!-- <p align="center"> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupendra247&theme=react-dark&hide_border=true&area=true" /> -->
-<!-- </p> -->
+**[EmotiVision](https://github.com/Rupendra247/EmotiVision)**
+Live emotion detection through your webcam using computer vision and deep learning.
 
-<!-- ### Competitive Programming
+**[Hospital-Management-System](https://github.com/Rupendra247/Hospital-Management-System)**
+A Python-based application for managing hospital operations and patient records.
 
-<p align="center">
-  <a href="https://leetcode.com/u/dhunganarupendra/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/profile/dhunganarupendr1"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://www.codewars.com/users/Rupendra%20Dhungana"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/></a>
-</p>
+**[chatbot](https://github.com/Rupendra247/chatbot)**
+A conversational chatbot application built in Python.
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupendra247&layout=compact&theme=react-dark&hide_border=true" />
-</p> -->
-
+**[31-days-of-python](https://github.com/Rupendra247/31-days-of-python)**
+A 31-day journey from Python fundamentals to Object-Oriented Programming — daily notebooks documenting the learning path.
 
 ### Connect with Me
 
