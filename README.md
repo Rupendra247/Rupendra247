@@ -28,25 +28,9 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
 ### Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupendra247&theme=react-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Rupendra247&theme=react-dark&hide_border=true" />
 </p>
 
-### Featured Projects
-
-**[finance-tracker](https://github.com/Rupendra247/finance-tracker)**
-A production-ready RESTful Personal Finance API built with FastAPI, SQLAlchemy, and JWT auth. Supports user registration/login, full transaction CRUD, pagination, date filtering, and balance summaries — with full user data isolation and Docker/Heroku deployment support.
-
-**[EmotiVision](https://github.com/Rupendra247/EmotiVision)**
-Live emotion detection through your webcam using computer vision and deep learning.
-
-**[Hospital-Management-System](https://github.com/Rupendra247/Hospital-Management-System)**
-A Python-based application for managing hospital operations and patient records.
-
-**[chatbot](https://github.com/Rupendra247/chatbot)**
-A conversational chatbot application built in Python.
-
-**[31-days-of-python](https://github.com/Rupendra247/31-days-of-python)**
-A 31-day journey from Python fundamentals to Object-Oriented Programming — daily notebooks documenting the learning path.
 
 ### Connect with Me
 
