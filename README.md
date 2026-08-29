@@ -28,7 +28,7 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
 ### Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupendra247&theme=react-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Rupendra247&theme=react-dark&hide_border=true" />
 </p>
 
 
