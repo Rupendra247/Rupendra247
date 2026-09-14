@@ -9,7 +9,8 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-Lang-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/C-Lang-00599C?style=for-the-badge&logo=c&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
