@@ -8,7 +8,7 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
 
 <br>
 
-<!-- <p align="center">
+<p align="center">
   <!-- <img src="https://img.shields.io/badge/C-Lang-00599C?style=for-the-badge&logo=c&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -23,8 +23,7 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-</p> -->
-
+</p>
 
 <br>
 
