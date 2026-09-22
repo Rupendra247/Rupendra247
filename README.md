@@ -23,8 +23,7 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-00D8FF?style=for-the-badge&logo=react&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/MERN%20Stack-1A1A2E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 <br>
